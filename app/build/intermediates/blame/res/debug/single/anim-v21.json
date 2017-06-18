@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/selin/.android/build-cache/b2a54b9c728c74d87a39b953036b5ed416ba207a/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/selin/.android/build-cache/b2a54b9c728c74d87a39b953036b5ed416ba207a/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

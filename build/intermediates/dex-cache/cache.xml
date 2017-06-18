@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5e496ae4d5b9d9d5ddec133229aaa33dce3f579">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_619cb583c1665a558e6a872d43709a108b645009/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/2a87dd73784993fb92325e8a49385bcce0f48b90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_2b693e6087cd66b75a92802ab7ff4f28cbd646e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/b808963e73955b3efb1f39de47d5a7aa86fb56b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_533d687ed0f17b4eea44fb5c97eedb7b752c6dda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/f6d02bf05d13f7292ee32f6ec62fd90df2a2cba6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_80bcff4341b2a9ebcd30cd2f5a221f7531512806.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92bc39341667bd08f7157065c74ec12eac9a0c6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/83cef50ddeef579decd31bc115669bd237e964e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_4864ba3819da21d2fc063116ad404a90c41efb64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/beac33e0bbddca617e0eb8dff19fb3c0b68712f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_9eec86e025804fe2e5caa10ca801832480e36b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/7dc68174990f66e485a9b62292d01b9c173bca86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_f1affbfcbc19720f444cf1f2146b9553552f0e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/3439f479b299fb2b213b5f92e9c13375b8eb6ff1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_95aea247cfa765b17dee77aa7b12f1582eb27f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/b2a54b9c728c74d87a39b953036b5ed416ba207a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_d843638dbe57216163557fa529a7f5017b4658ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/73df607b3a25763b4cbe547487e1dbd3b6dba96a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_88cdf2d69b0c19062dda62404545f3e9b189927e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/7feee26103b7dc20d091cd427c462d2658a97ff6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_54083cf49b102426ef1b3c5f23458296a7b9d855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/selin/.android/build-cache/bc1b49e8f5e1e0598aa3d10d2d4e62d295b717f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/pre-dexed/debug/classes_8c3b40c1908354af25d2438fad169ded1d34f4d0.jar" />
+    </item>
+
+</items>

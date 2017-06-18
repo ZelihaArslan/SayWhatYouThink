@@ -1,0 +1,7 @@
+#Sun Jun 18 16:40:08 EEST 2017
+base.0=/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92bc39341667bd08f7157065c74ec12eac9a0c6f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_619cb583c1665a558e6a872d43709a108b645009/classes.dex
+base.1=/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_619cb583c1665a558e6a872d43709a108b645009
+file.0=/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92bc39341667bd08f7157065c74ec12eac9a0c6f/classes.dex

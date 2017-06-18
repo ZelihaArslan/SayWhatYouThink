@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/selin/.android/build-cache/7a477a79be8759d77bcc39beeb7892b1d6286753/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/selin/.android/build-cache/7a477a79be8759d77bcc39beeb7892b1d6286753/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/selin/.android/build-cache/b2a54b9c728c74d87a39b953036b5ed416ba207a/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/selin/.android/build-cache/7a477a79be8759d77bcc39beeb7892b1d6286753/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/brain.png",
+        "source": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/src/main/res/drawable-v21/brain.png"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/selin/.android/build-cache/b2a54b9c728c74d87a39b953036b5ed416ba207a/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/selin/.android/build-cache/b2a54b9c728c74d87a39b953036b5ed416ba207a/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/selin/.android/build-cache/b2a54b9c728c74d87a39b953036b5ed416ba207a/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/selin/.android/build-cache/7a477a79be8759d77bcc39beeb7892b1d6286753/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

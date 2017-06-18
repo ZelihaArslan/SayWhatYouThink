@@ -1,0 +1,4 @@
+#Sun Jun 18 01:16:00 EEST 2017
+base.0=/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/home/selin/AndroidStudioProjects/SayWhatYouThink/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex
